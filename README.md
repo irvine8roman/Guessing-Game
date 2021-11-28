@@ -1,5 +1,7 @@
 # Guessing-Game
 A simple Guessing Game utilizing HTML, CSS and JavaScript. 
+### Play it here
+https://codepen.io/irvine8roman/project/full/APQyNa
 
 ![WebPage](Webpage.PNG)
 
